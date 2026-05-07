@@ -21,7 +21,6 @@ Through my time at Rilemo I've developed a solid foundation in:
 **Embedded Systems**
 - C/C++ for Microcontrollers
 - Low-power Electronics & optimization
-- IoT & Wireless Communication
 
 **Core Interests**
 - Bionics & Bioelectronics
@@ -51,7 +50,7 @@ Through my time at Rilemo I've developed a solid foundation in:
 
 ## 🎯 What I'm Looking For
 
-I'm seeking an **internship opportunity** to develop my Master's thesis, ideally within the bionics, mechatronics, or semiconductor sectors. I'm always keen to collaborate on projects that push the boundaries of how electronics can interact with the world (and the human body).
+I'm seeking an **internship opportunity** to develop my Master's thesis, ideally within the bionics, mechatronics, or semiconductor sectors. I'm always keen to collaborate on projects that push the boundaries of how electronics can interact with human body.
 
 ---
 
